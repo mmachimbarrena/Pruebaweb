@@ -18,3 +18,14 @@
    name = "Wo"
    url = "#about"
    weight = 1
+
+[eu]
+ languageCode = "eu"
+ contentDir = "content/eu"
+ title = "Euskera website title..."
+ [eu.params]
+   description = "Site description in Chinese..."
+ [[eu.menu.main]]
+   name = "Wo"
+   url = "#about"
+   weight = 1
