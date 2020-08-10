@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Manu
+title: spanish
 
 # Username (this should match the folder name)
 authors:
