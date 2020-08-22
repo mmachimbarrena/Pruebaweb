@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ManuXXXrena
+title: Euskeraz
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Irakasle atxikia
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Euskal Herriko Unibertsitatea
-  url: "www.ehu.eus"
+- name: Stanford University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- ace
-- Ctics
-- Infoieval
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
