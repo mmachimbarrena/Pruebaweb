@@ -48,10 +48,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jmmachimbarrena
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.es/citations?hl=&user=Hg4rPqkAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Psikologian litzentziaduna (2012) eta doktorea (2017, doktoregoko sari berezia) UPV/EHUn. Nortasun, bailioespen eta Tratamendu psikologikoen sailean irakasle atxikia.
+Ikerketa mailan, 28 ikerketa artikuloen egilea naiz (horietatik 24 JCR/SJRn indexatutako aldizkarietan). Hiru ikerketa proiektutako parte-hartzaliea. Horrez gain, nazio eta nazioarteko kongresoetan 30 komunikazio baino gehiago aurkeztu ditut eta Ambereseko Unibertsitatean ikerketa egonaldia burutu dut. Irakaskuntza arloari dagokionez, egun, Psikopatologia, Osasuna eta Mendekotasun Nahasmenduak, eta Psikologia Klinikoko eta Osasunaren Psikologiako Practicumerako Sarrera Psikologia graduan irakasten ditut.  
+Nere ikerketa lerroek nerabezaroko Internetarekin loturiko arriskuetan, hauen metaketan eta hauek bizi kalitatean duten eragina aztertzean dute ardatza. Arrisku hauen artean harremanekin loturiko arriskuak (adb. Bullying, cyberbullying, cyber dating abuse, sexting ....) zein teknologiaren erabiliera desegokiek sortutakoak (Internetaren erabilera problematikoa, intennet gaming disorder…) daude eta hauek  aldagai personal eta familiarekin  dituzten loturak  ezagutzea, betiere prebentzioa helburu izanik.
