@@ -11,21 +11,21 @@
 [es]
  languageCode = "es"
  contentDir = "content/es"
- title = "Chinese website title..."
+ title = "Juan manuel Machimbarrena."
  [es.params]
-   description = "Site description in Chinese..."
+   description = "Página en Español"
  [[es.menu.main]]
-   name = "Wo"
+   name = "Español"
    url = "#about"
    weight = 1
 
 [eu]
  languageCode = "eu"
  contentDir = "content/eu"
- title = "Euskera website title..."
+ title = "Juan Manuel Machimbarrena"
  [eu.params]
-   description = "Site description in Chinese..."
+   description = "Euskazko weborria"
  [[eu.menu.main]]
-   name = "Wo"
+   name = "Euskera"
    url = "#about"
    weight = 1

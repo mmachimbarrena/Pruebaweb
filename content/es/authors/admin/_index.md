@@ -1,6 +1,6 @@
 ---
 # Display name
-title: spanish
+title: Juan Manuel Machimbarrena
 
 # Username (this should match the folder name)
 authors:
