@@ -1,0 +1,28 @@
++++
+title = "Loneliness and Personality Profiles Involved in Bullying Victimization and Aggressive Behavior"
+date = "2019-01-01"
+authors = ["Juan Manuel Machimbarrena", "Aitor alvarez-Bardon", "Ana Leon-Mejia", "Monica Gutierrez-Ortega", "Alix Casadiego-Cabrales", "Joaquin Gonzalez-Cabrera"]
+publication_types = ["2"]
+publication = "School Mental Health, (11), 4, _pp. 807--818_, https://doi.org/10.1007/s12310-019-09328-y"
+publication_short = "School Mental Health, (11), 4, _pp. 807--818_, https://doi.org/10.1007/s12310-019-09328-y"
+abstract = "Bullying is a worrisome reality due to its harmful consequences. Although many constructs have been associated with bullying victimization and aggressive behavior, its relationship both with loneliness and personality has received little attention. The main objective of this study is to identify differences in bullying victimization and aggressive behavior scores based on a typology of personality and loneliness profiles. Six hundred and four middle school students (54% female) from the province of Leon (Spain), aged between 12 and 15 (Mage = 13.3 ± 1.12), completed the Eysenck Junior Personality Inventory, the Loneliness Scales, the Bullying Victimization Scale, and the Short Aggression Questionnaire. Correlations, linear regressions, and latent profile analysis (LPA) were performed. Age (β = − 0.90, p \textless 0.001), peer loneliness (β = 0.70, p \textless 0.001), isolation (β = 0.18, p \textless 0.001), neuroticism (β = 0.06, p = 0.048), and psychoticism (β = 0.06, p = 0.026) predicted bullying victimization. Moreover, the LPA distinguished five distinct profiles based on the loneliness and personality subscales. The disruptive and peer-alienated profiles obtained the highest scores in bullying victimization, and the former also had the highest aggression scores. Loneliness and personality are closely linked to victimization and aggressive behavior. It is crucial for health and school communities to identify and address these vulnerabilities for the prevention of bullying victimization and aggression."
+abstract_short = ""
+image_preview = ""
+selected = false
+projects = []
+tags = []
+url_pdf = "http://link.springer.com/10.1007/s12310-019-09328-y"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+math = true
+highlight = true
+[header]
+image = ""
+caption = ""
++++
