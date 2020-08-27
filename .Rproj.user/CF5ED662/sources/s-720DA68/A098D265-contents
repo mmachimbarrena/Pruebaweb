@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: Doctor en Psicologia (título de la tesis:"Bullying y Cyberbullyinga en el último ciclo de educación primaria:relación con variables personales y familiares") 
+  - course: Doctor en Psicologia (título de la tesis:"Bullying y Cyberbullying en el último ciclo de educación primaria:relación con variables personales y familiares") 
     institution: Universidad del País Vasco UPV/EHU
     year: 2017
   - course: Máster en Psicología:Individuo, grupo, organización y cultura
@@ -45,16 +45,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'juanmanuel.machimbarrena@ehu.eus'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jmmachimbarrena
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?hl=&user=Hg4rPqkAAAAJ
-- icon: github
+- icon: orcid
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://orcid.org/0000-0002-5506-3661
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Juan_Machimbarrena
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,6 +75,8 @@ user_groups:
 - Visitors
 ---
 
-Licenciado (2012) y doctor en Psicología (2017, premio extraordinario de doctorado) por la UPV/EHU. Profesor adjunto del departamento de Personalidad, Evaluación y Tratamiento Psicológico.
-En materia de investigación, soy autor en 23 artículos publicados (de ellos 21 en revistas indexadas en JCR/SJR). He participado en 3 proyectos de investigación. Además, he presentado más de 30 comunicaciones a congresos nacionales e internacionales y he realizado una estancia en la Universidad de Amberes. A nivel docente, en este momento, imparto las asignaturas Psicopatología, Salud y Dependencias e Introducción al practicum de Clínica en el grado de Psicología. 
+Soy Manu Machimbarrena, licenciado (2012) y doctor en Psicología (2017, premio extraordinario de doctorado) por la UPV/EHU. En este momento trabajo como Profesor adjunto del departamento de Personalidad, Evaluación y Tratamiento Psicológico en la misma universidad.
+
 Mis líneas de investigación se centran en diferentes riegos de Internet para los adolescentes y la acumulación de los mismos y su impacto en su calidad de vida relacionada con la salud. Estos riegos incluyen tanto las problemáticas de carácter relacional (p.ej: bullying, cyberbullying, cyber dating abuse, sexting...) como aquellas de uso disfuncional de la tecnología (p.ej: uso problemático de internet, Internet Gaming Disorder..)  y su relación con variables personales y familiares teniendo como objetivo la prevención.
+
+En materia de investigación, soy autor en 28 artículos publicados en revistas cientifícas (de ellos 24 en revistas indexadas en JCR/SJR). He participado en 3 proyectos de investigación. Además, he presentado más de 30 comunicaciones a congresos nacionales e internacionales y he realizado una estancia en la Universidad de Amberes. A nivel docente, en este momento, imparto las asignaturas Psicopatología, Salud y Dependencias e Introducción al practicum de Clínica en el grado de Psicología. 

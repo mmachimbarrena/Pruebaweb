@@ -45,16 +45,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'juanmanuel.machimbarrena@ehu.eus'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jmmachimbarrena
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?hl=&user=Hg4rPqkAAAAJ
-- icon: github
+- icon: orcid
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://orcid.org/0000-0002-5506-3661
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Juan_Machimbarrena
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,6 +75,10 @@ user_groups:
 - Visitors
 ---
 
-Psikologian litzentziaduna (2012) eta doktorea (2017, doktoregoko sari berezia) UPV/EHUn. Nortasun, bailioespen eta Tratamendu psikologikoen sailean irakasle atxikia.
-Ikerketa mailan, 28 ikerketa artikuloen egilea naiz (horietatik 24 JCR/SJRn indexatutako aldizkarietan). Hiru ikerketa proiektutako parte-hartzaliea. Horrez gain, nazio eta nazioarteko kongresoetan 30 komunikazio baino gehiago aurkeztu ditut eta Ambereseko Unibertsitatean ikerketa egonaldia burutu dut. Irakaskuntza arloari dagokionez, egun, Psikopatologia, Osasuna eta Mendekotasun Nahasmenduak, eta Psikologia Klinikoko eta Osasunaren Psikologiako Practicumerako Sarrera Psikologia graduan irakasten ditut.  
+Manu Machimabrrena naiz, psikologian litzentziaduna (2012) eta doktorea (2017, doktoregoko sari berezia) UPV/EHUn. Egun, Nortasun, balioespen eta Tratamendu psikologikoen sailean irakasle atxikia naiz.
+
 Nere ikerketa lerroek nerabezaroko Internetarekin loturiko arriskuetan, hauen metaketan eta hauek bizi kalitatean duten eragina aztertzean dute ardatza. Arrisku hauen artean harremanekin loturiko arriskuak (adb. Bullying, cyberbullying, cyber dating abuse, sexting ....) zein teknologiaren erabiliera desegokiek sortutakoak (Internetaren erabilera problematikoa, intennet gaming disorder…) daude eta hauek  aldagai personal eta familiarekin  dituzten loturak  ezagutzea, betiere prebentzioa helburu izanik.
+
+Ikerketa mailan, 28 ikerketa artikulo zientifikoen egilea naiz (horietatik 24 JCR/SJRn indexatutako aldizkarietan). Hiru ikerketa proiektutako parte-hartzaliea. Horrez gain, nazio eta nazioarteko kongresoetan 30 komunikazio baino gehiago aurkeztu ditut eta Ambereseko Unibertsitatean ikerketa egonaldia burutu dut. Irakaskuntza arloari dagokionez, egun, Psikopatologia, Osasuna eta Mendekotasun Nahasmenduak, eta Psikologia Klinikoko eta Osasunaren Psikologiako Practicumerako Sarrera Psikologia graduan irakasten ditut.  
+
+

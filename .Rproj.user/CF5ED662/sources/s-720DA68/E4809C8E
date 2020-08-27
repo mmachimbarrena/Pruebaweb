@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598537032779.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3887948536",
+    "id" : "E4809C8E",
+    "lastKnownWriteTime" : 1598537040,
+    "last_content_update" : 1598537040846,
+    "path" : "~/GitHub/Pruebaweb/content/eu/home/about.md",
+    "project_path" : "content/eu/home/about.md",
+    "properties" : {
+        "cursorPosition" : "7,18",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

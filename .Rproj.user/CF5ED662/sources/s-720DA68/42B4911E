@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598537046504.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "42B4911E",
+    "lastKnownWriteTime" : 1598175399,
+    "last_content_update" : 1598175399,
+    "path" : "~/GitHub/Pruebaweb/content/eu/home/contact.md",
+    "project_path" : "content/eu/home/contact.md",
+    "properties" : {
+        "cursorPosition" : "21,16",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

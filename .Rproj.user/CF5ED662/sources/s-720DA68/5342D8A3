@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598538206103.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "397796593",
+    "id" : "5342D8A3",
+    "lastKnownWriteTime" : 1598538213,
+    "last_content_update" : 1598538213080,
+    "path" : "~/GitHub/Pruebaweb/config/_default/params.toml",
+    "project_path" : "config/_default/params.toml",
+    "properties" : {
+        "cursorPosition" : "297,11",
+        "scrollLine" : "268"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
